@@ -1,4 +1,8 @@
-# Frontend Mentor - File Transfer pricing component
+# Pricing Component
+
+Challenge proposed by Frontend Mentor using HTML, CSS and JavaScript.
+
+[Demo](https://pricing-component-phi.now.sh/)
 
 ![Design preview for the File Transfer pricing component coding challenge](./design/desktop-preview.jpg)
 
